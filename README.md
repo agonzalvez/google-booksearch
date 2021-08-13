@@ -1,7 +1,7 @@
 # Google Book Search
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)  
 ## Description
-This app will allow to search for any books available on Google Books. The user will be able to not only view the book for purchase, but also save their favorite accordingly. If the user decides to delete any favorite books, a delete button is made available to them.
+This app will allow to search for any books available on Google Books. The user will be able to not only view the book for purchase, but also save their favorite accordingly. If the user decides to delete any favorite books, a delete button is made available to them. Get reading!
 ## Table of Contents 
 - [Installation](#installation)
 - [Usage](#usage)
