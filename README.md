@@ -22,6 +22,7 @@ This app will allow to search for any books available on Google Books. The user 
 - ![image](assets/ezgif.com-gif-maker.gif) 
 - [Click](https://mysterious-meadow-63767.herokuapp.com/) to interact with the live app. 
 ## License
+This application is under the MIT license.  
 ## Technologies
 - React
 - useState
@@ -31,7 +32,6 @@ This app will allow to search for any books available on Google Books. The user 
 - Express
 - Axios
 - Mongoose
-This application is under the MIT license.  
 ## Contributors
 N.A..
 ## Testing
